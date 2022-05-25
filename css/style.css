@@ -30,8 +30,13 @@ h1 {
 }
 
 #results {
-  background-color: #fefeba;
-  margin-top: 30px;
   border: none;
   width: 100%;
+  padding: 20px 60px;
+  height: 60px;
+}
+
+#yellow {
+  background-color: #fefeba;
+  margin-top: 30px;
 }

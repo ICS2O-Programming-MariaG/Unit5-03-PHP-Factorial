@@ -33,7 +33,10 @@
           <input type="submit" value="Calculate Factorial" id="styled-button">
       </form>
     </div>
-    <!-- Iframe for factorial to be displayed -->
-    <iframe id="results" name="results"></iframe>
+    <!-- Div for styled colour around iframe -->
+    <div id="yellow">
+      <!-- Iframe for factorial to be displayed -->
+      <iframe id="results" name="results"></iframe>
+    </div>
   </body>
 </html>
