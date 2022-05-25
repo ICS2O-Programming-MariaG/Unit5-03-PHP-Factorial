@@ -9,7 +9,7 @@
   //using a do...while loop to find factorial of inputted number
   do {
     $facAnswer = $facAnswer * $counter;
-    $counter = $counter++;
+    $counter = $counter + 1;
   } while ($counter <= $userNum);
 
   //displaying factorial to the screen
