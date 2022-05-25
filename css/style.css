@@ -1,0 +1,37 @@
+/* Created by: MariaG
+* Created on: May 25, 2022
+* This CSS file defines the style for index.html
+* ICS2O-Unit5-03-HTML-Factorial
+*/
+
+body {
+  width: 80%;
+  margin: 5% 10%;
+  font-family: Helvetica, Arial, sans-serif;
+}
+
+h1 {
+  color: white;
+  text-align: center;
+  padding: 30px;
+  background-color: #44b27b;
+}
+
+#blue-background {
+  padding: 20px 60px;
+  background-color: #c8e8ec;
+}
+
+#styled-button {
+  background-color: #e06488;
+  color: white;
+  border: none;
+  padding: 10px;
+}
+
+#results {
+  background-color: #fefeba;
+  margin-top: 30px;
+  border: none;
+  width: 100%;
+}
